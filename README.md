@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <th>Project</th>
+    <th>         Project        </th>
     <!-- <th>Topic</th>
     <th>Status</th> -->
   </tr>
