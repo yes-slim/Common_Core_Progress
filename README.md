@@ -1,4 +1,4 @@
-# 42Cursus progress
+<!-- # 42Cursus progress
 
 
 | Project          | Topic                     | Status |
@@ -17,4 +17,22 @@
 | push_swap        | C - Sorting algorithms    |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2928272" alt="yes-slim's 42 push_swap Score" /></a>|
 | so_long          | C - 2D GameDev            |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2916152" alt="yes-slim's 42 so_long Score" /></a>|
 | pipex            | C - Pipe                  |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2997267" alt="yes-slim's 42 pipex Score" /></a>|
-| ---------------- | ------------------------- | :----: |
+| ---------------- | ------------------------- | :----: | -->
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
