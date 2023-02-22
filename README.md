@@ -16,4 +16,3 @@
 | push_swap        | C - Sorting algorithms    |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2928272" alt="yes-slim's 42 push_swap Score" /></a>|
 | so_long          | C - 2D GameDev            |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2916152" alt="yes-slim's 42 so_long Score" /></a>|
 | pipex            | C - Pipe                  |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2997267" alt="yes-slim's 42 pipex Score" /></a>|
-|                  |                           |        |
