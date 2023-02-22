@@ -4,7 +4,7 @@
 | Project          | Topic                     | Status |
 | ---------------- | ------------------------- | :----: |
 | libft            | C - Libraries             |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2825116" alt="yes-slim's 42 Libft Score" /></a>|
-| 🌀🌀🌀            |                           |        |
+| 🌀🌀🌀🌀          |                           |        |
 | ft_printf        | C - Variadic functions    |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2865826" alt="yes-slim's 42 ft_printf Score" /></a>|
 | get_next_line    | C - Static variables      |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2865833" alt="yes-slim's 42 get_next_line Score" /></a>|
 | born2beroot      | System administration     |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2865834" alt="yes-slim's 42 Born2beroot Score" /></a>|
