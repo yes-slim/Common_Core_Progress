@@ -46,7 +46,7 @@
   <tr>
     <td>pipex </td>
     <td>C - Pipe </td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2997267" alt="yes-slim's 42 pipex Score" /></a>|</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2997267" alt="yes-slim's 42 pipex Score" /></a></td>
   </tr>
 </table>
 
