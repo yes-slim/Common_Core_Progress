@@ -21,10 +21,10 @@
 <table>
   <tr>
     <th>		Project			</th>
-    <!-- <th>Topic</th>
-    <th>Status</th> -->
+    <th>Topic</th>
+    <th>Status</th>
   </tr>
-  <!-- <tr>
+  <tr>
     <td>Alfreds Futterkiste</td>
     <td>Maria Anders</td>
     <td>Germany</td>
@@ -33,5 +33,5 @@
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
-  </tr> -->
+  </tr>
 </table>
