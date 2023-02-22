@@ -1,6 +1,6 @@
 # 42Cursus progress
 
-
+<div align="center">
    | Project          | Topic                     | Status |
    | ---------------- | ------------------------- | :----: |
    |                  |                           |        |
