@@ -25,9 +25,9 @@
     <th>Status</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Libft</td>
+    <td>C - Libraries</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2825116" alt="yes-slim's 42 Libft Score" /></a></td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
