@@ -48,6 +48,16 @@
     <td>C - Pipe </td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/2997267" alt="yes-slim's 42 pipex Score" /></a></td>
   </tr>
+  <tr>
+    <td>Philosophers </td>
+    <td>C - Threads & Processes </td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/3102373" alt="yes-slim's 42 Philosophers Score" /></a></td>
+  </tr>
+  <tr>
+    <td> Exam rank 3</td>
+    <td></td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9smgnrq00250fju0ztclesb/project/3102374" alt="yes-slim's 42 Exam Rank 03 Score" /></a></td>
+  </tr>
 </table>
 
 ---
